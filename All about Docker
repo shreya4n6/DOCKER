@@ -1,0 +1,26 @@
+Docker -: The Next Generation platform service
+Info about Docker
+
+The most amazing software based platform service ever
+used by most companies
+docker is free for everyone
+
+Developement info
+Solomon Hykes is the core developer
+Docker Inc is the company
+written in Go lang
+Public release
+docker released in December 21, 2013
+
+Platform supported
+Linux kernel 3.10 and later
+Mac Os
+Windows server 2016 and later
+study and software details
+For offical website you can browse docker docs
+For docker images you can browser docker hub
+
+Bash Completion for Docker
+you can download it from
+
+sudo curl https://raw.githubusercontent.com/docker/docker-ce/master/components/cli/contrib/completion/bash/docker -o /etc/bash_completion.d/docker.sh
